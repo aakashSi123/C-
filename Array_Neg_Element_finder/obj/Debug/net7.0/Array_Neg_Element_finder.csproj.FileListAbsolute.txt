@@ -1,0 +1,15 @@
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\bin\Debug\net7.0\Array_Neg_Element_finder.exe
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\bin\Debug\net7.0\Array_Neg_Element_finder.deps.json
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\bin\Debug\net7.0\Array_Neg_Element_finder.runtimeconfig.json
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\bin\Debug\net7.0\Array_Neg_Element_finder.dll
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\bin\Debug\net7.0\Array_Neg_Element_finder.pdb
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.csproj.AssemblyReference.cache
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.AssemblyInfoInputs.cache
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.AssemblyInfo.cs
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.csproj.CoreCompileInputs.cache
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.dll
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\refint\Array_Neg_Element_finder.dll
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.pdb
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\Array_Neg_Element_finder.genruntimeconfig.cache
+C:\Users\Aakash\Desktop\C#\Array_Neg_Element_finder\obj\Debug\net7.0\ref\Array_Neg_Element_finder.dll

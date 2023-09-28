@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Array_Neg_Element_finder/1.0.0": {
+        "runtime": {
+          "Array_Neg_Element_finder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array_Neg_Element_finder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
